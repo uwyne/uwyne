@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uwyne
-- 👀 I’m interested in AWS, ML
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in AWS, ML, Python, C++, C#, Web and onprem development.
+- 🌱 My expertise in AWS, Heroku, and Windows.
 - 💞️ I’m looking to collaborate on AWS, ML, Python, payments, and ecommerce.
 - 📫 How to reach me uwyne@yahoo.com
 
